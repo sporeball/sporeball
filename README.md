@@ -5,6 +5,7 @@ stuff i'm working on:
 - [naz](https://github.com/sporeball/naz), an esolang where every command is named by a number and a letter
 - [victus](https://github.com/sporeball/victus), a zero-dependency JavaScript library for canvas games
 - [vim](https://github.com/sporeball/vim), a game about capturing territory and trying not to go bankrupt
+- [ntdl](https://github.com/sporeball/ntdl), a to-do list for your terminal
 - [project OMEGA](https://github.com/sporeball/project-omega), a tiny game console with an 8x8 screen
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
