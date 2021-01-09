@@ -3,10 +3,12 @@ i'm a 17-year-old enby idiot who loves programming weird stuff. indie games and 
 
 stuff i'm working on:
 - [naz](https://github.com/sporeball/naz), an esolang where every command is named by a number and a letter
-- [victus](https://github.com/sporeball/victus), a zero-dependency JavaScript library for canvas games
+- [victus](https://github.com/sporeball/victus), a zero-dependency JavaScript game framework
 - [vim](https://github.com/sporeball/vim), a game about capturing territory and trying not to go bankrupt
 - [ntdl](https://github.com/sporeball/ntdl), a to-do list for your terminal
-- [project OMEGA](https://github.com/sporeball/project-omega), a tiny game console with an 8x8 screen
+- [otto](https://github.com/sporeball/otto), to help you bring your brain back into the foreground
+
+[...and more!](https://github.com/sporeball?tab=repositories)
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/they/them?gradient=anamnisar" width="256" height="64" alt="My pronouns are they/them">
