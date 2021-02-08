@@ -18,6 +18,7 @@ stuff i'm working on:
 
 <a href="https://twitter.com/sporeball"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsporeball%26type%3Dpledges%26suffix%3D%252Fmonth&style=for-the-badge)](https://patreon.com/sporeball)
+<a href="https://scrapbook.hackclub.com/sporeball"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a>
 
 <!--
 **sporeball/sporeball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
