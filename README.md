@@ -1,5 +1,5 @@
 ### hi, i'm [sporeball](https://sporeball.dev)!
-i'm a 17-year-old enby idiot who loves programming weird stuff. indie games and Eurorack are nice too!
+i'm a 17-year-old idiot who loves programming weird stuff. indie games and Eurorack are nice too!
 
 stuff i'm working on:
 - [naz](https://github.com/sporeball/naz), an esolang where every command is named by a number and a letter
@@ -11,7 +11,7 @@ stuff i'm working on:
 [...and more!](https://github.com/sporeball?tab=repositories)
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/they/them?gradient=anamnisar" width="256" height="64" alt="My pronouns are they/them">
+  <img src="https://pronouns.vercel.app/she/her?gradient=anamnisar" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
 <br/>
