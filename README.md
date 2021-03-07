@@ -2,7 +2,7 @@
 i'm a 17-year-old idiot who loves programming weird stuff. indie games and Eurorack are nice too!
 
 stuff i'm working on:
-- [naz](https://github.com/sporeball/naz), an esolang where every command is named by a number and a letter
+- [naz](https://github.com/sporeball/naz), an esolang where every instruction is named by a number and a letter
 - [victus](https://github.com/sporeball/victus), a zero-dependency JavaScript game framework
 - [vim](https://github.com/sporeball/vim), a game about capturing territory and trying not to go bankrupt
 - [ntdl](https://github.com/sporeball/ntdl), a to-do list for your terminal
