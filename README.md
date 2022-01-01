@@ -1,5 +1,5 @@
 ### hi, i'm [sporeball](https://sporeball.dev)!
-i'm a 17-year-old idiot who loves programming weird stuff. indie games and Eurorack are nice too!
+i'm an 18-year-old idiot who loves programming weird stuff. indie games and Eurorack are nice too!
 
 stuff i'm working on:
 - [naz](https://github.com/sporeball/naz) - an esolang where every instruction is named by a number and a letter
