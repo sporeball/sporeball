@@ -1,5 +1,5 @@
-### hi there!
-we are a [plural system of 8 headmates](https://sporeball.dev/pages/system_information), making weird things slowly.\
-*it's nice to meet you.*
+### this account is deprecated!
 
-you can see a full list of our projects [here](https://sporeball.dev/pages/works).
+we are trying to move away from this account as much as possible!
+
+please see https://sporeball.dev and https://git.sr.ht/~sporeball for our most recent work!
